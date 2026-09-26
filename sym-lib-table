@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "remote_zx80-b-5s_30_") (type "KiCad") (uri "E:/Documents/GitHub/vive-charge-dock/RemoteLibrary/symbols/remote_zx80-b-5s_30_.kicad_sym") (options "") (descr "Remote download"))
+)
